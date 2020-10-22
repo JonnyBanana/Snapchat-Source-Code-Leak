@@ -15,8 +15,10 @@ https://www.youtube.com/watch?v=xEqCbRevNlo
 
 </BR>
 
-<a href="https://golden-farm.biz/?r=1673249" target="_blank">
-<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
-alt="Profit every 10 minutes!"></a>
+<!-- Banner -->
+<div align="center">
+<a href="https://www.purevpn.com/order-now.php?aff=44922&amp;a_bid=bbd0f893" target="_blank" ><img src="https://affiliates.purevpn.com/accounts/default1/6hb82wqa2l/bbd0f893.jpg" alt="Best VPN" title="Best VPN" width="728" height="90" /></a>
+</BR></BR>
+</div>
 
 
